@@ -1,0 +1,38 @@
+WIDEMOMENT ATTRIBUTION LICENSE (WAL)
+
+Copyright (c) 2026 widemoment
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software, subject to the following conditions:
+
+## 1. Attribution Requirement
+
+Any use, distribution, or modification of this Software must include the following attribution in a visible and reasonable location (such as in a README file, source file header, or documentation):
+
+> "Code written by widemoment ([https://github.com/widemoment](https://github.com/widemoment))"
+
+## 2. Modified Versions
+
+If you modify, extend, or improve the Software in any way, you must include the following attribution in addition to the one above:
+
+> "Code written by widemoment ([https://github.com/widemoment](https://github.com/widemoment)), improved by [Your Name]"
+
+You may replace `[Your Name]` with your own name, username, or organization.
+
+## 3. No Misrepresentation
+
+You may not claim that you are the original author of the Software, even if the Software has been partially or heavily modified. The original authorship must always remain attributed to widemoment.
+
+## 4. Redistribution
+
+You are allowed to redistribute the Software, in original or modified form, provided that:
+
+* This license file is included with the distribution.
+* The attribution requirements above are followed.
+
+## 5. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+This license is a custom attribution-based license created by widemoment. It allows free use and modification while requiring permanent credit to the original author.
